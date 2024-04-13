@@ -2,7 +2,7 @@
 Amazon Data Analysis Project using SQL to answer business questions
 
 # Amazon Sales Analysis Project
-![Banner Image](insert_banner_image_link_here)
+![Banner Image](https://github.com/shreyasic77/AMAZON_IN_Project/blob/main/amazon_india_wide_image-3.jpg)
 
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
@@ -34,7 +34,7 @@ analysis techniques:
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
 ## Entity-Relationship Diagram (ERD)
-![ERD Image](insert_banner_image_link_here)
+![ERD Image](https://github.com/shreyasic77/AMAZON_IN_Project/blob/main/Entity_Relation_Diagram.png)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
