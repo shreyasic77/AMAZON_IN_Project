@@ -4,15 +4,19 @@ Amazon Data Analysis Project using SQL to answer business questions
 # Amazon Sales Analysis Project
 ![Banner Image](https://github.com/shreyasic77/AMAZON_IN_Project/blob/main/amazon_india_wide_image-3.jpg)
 
-Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
-data from Amazon to extract insights and trends that can help optimize sales strategies,
+In this project, we delve into analyzing sales data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
 
 ## Introduction
 This project focuses on analyzing a dataset containing Amazon sales records, including
 information such as sales dates, customer details, product categories, and revenue figures. By
 leveraging SQL queries and data analysis techniques, we aim to answer various questions and
-uncover valuable insights from the dataset.
+uncover valuable insights from the dataset, such as:
+- The most revenue generating products
+- The month for highest number of orders
+- Identifying categories with most return requests
+  
+Based on these emerging trends, business decisions can be guided such as marketing campaign launch timing, monitoring the return request etc
 
 ## Dataset Overview
 The dataset used in this project consists of 9989 rows of data, representing Amazon
